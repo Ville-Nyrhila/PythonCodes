@@ -1,0 +1,30 @@
+zeldas rectangle size
+width 	= 70
+height 	= 70
+
+walk_down sprites	 : 5
+(216,	2
+	71
+	143
+	214
+	286)
+
+walk_up sprites	 : 4
+(360,	0
+	71
+	143
+	215)
+
+walk_left	: 5
+(283,	0
+	71
+	143
+	214
+	286)
+
+walk_right	: 5
+(430,	0
+	71
+	143
+	214
+	286)

@@ -1,0 +1,12 @@
+Insinöörinkatu50 33720
+Hämeenkatu1 33100
+Teekkarinkatu1 33720
+33720 Tampere
+Tohtorinkatu1 33720
+Insinöörinkatu1 33720
+33100 Tampere
+00100 Helsinki
+Kauppakatu1 33100
+Opiskelijankatu1 33720
+Mannerheimintie1 00100
+Itsenäisyydenkatu1 33500
